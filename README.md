@@ -1,1 +1,1 @@
-# NaiveBayesClassifierLoanDataset
+# Naive Bayes Classifier With Loan Dataset
